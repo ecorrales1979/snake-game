@@ -7,7 +7,10 @@
   "author": "Eduardo Ernesto Corrales Reyna <ecorrales1979@gmail.com>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "git-commit-msg-linter": "^4.6.0"
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "git-commit-msg-linter": "^4.6.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
   }
 }
