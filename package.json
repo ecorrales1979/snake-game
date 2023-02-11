@@ -6,5 +6,8 @@
   "repository": "git@github.com:ecorrales1979/snake-game.git",
   "author": "Eduardo Ernesto Corrales Reyna <ecorrales1979@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "git-commit-msg-linter": "^4.6.0"
+  }
 }
