@@ -4,7 +4,7 @@ module.exports = {
   semi: false,
   singleQuote: true,
   jsxSingleQuote: true,
-  trailingComma: 'avoid',
+  trailingComma: 'es5',
   arrowParens: 'avoid',
   htmlWhitespaceSensitivity: 'css',
 }
