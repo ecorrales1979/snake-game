@@ -1,0 +1,10 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A simple snake game for testing programming skills",
+  "main": "index.js",
+  "repository": "git@github.com:ecorrales1979/snake-game.git",
+  "author": "Eduardo Ernesto Corrales Reyna <ecorrales1979@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
